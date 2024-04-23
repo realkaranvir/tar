@@ -16,3 +16,9 @@ v Increases verbosity
 f Specifies archive filename
 
 S Be strict about standards compliance
+
+**Example Usage**
+
+% make
+
+%./mytar cvf archiveToBeMade folderToBeArchived
