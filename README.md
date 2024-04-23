@@ -7,7 +7,9 @@ Usage: mytar [ctxvS]f tarfile [ path [ ...  ]  ]
 
 c Create an archive
 
-t Print the table of contents of an archive x Extract the contents of an archive
+t Print the table of contents of an archive 
+
+x Extract the contents of an archive
 
 v Increases verbosity
 
