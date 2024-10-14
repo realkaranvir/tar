@@ -28,4 +28,4 @@ header.o: header.c header.h
 test:
 
 clean:
-	rm -f mytar *.o *.out
+	rm -f mytar *.o *.out *.gch
